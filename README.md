@@ -1,1 +1,1 @@
-# Amazon-clone
+thats my first major project, which was a clone of Amazon. This experience was incredibly educational and I am proud of the progress I made. However, I have decided to keep this project confidential as I don't feel it fully represents my current skills and abilities.
